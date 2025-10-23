@@ -18,3 +18,15 @@
 
 <br/> This is a muffin pan exercise to demonstrate knowledge of linear pattern tool
 <br/>[CAD file here](https://github.com/Lt-danbr/Lt-danbr/raw/refs/heads/main/muffin%20pan.SLDPRT)
+
+<h1></h1>
+<img src="https://github.com/user-attachments/assets/9906068f-2965-49eb-842d-2e180a96f4e9" alt="" width="300">
+<br/> another bracket exercise used to practice following a blueprint and practice using the different functions in solidworks
+
+<br/>[CAD file here](https://github.com/Lt-danbr/Lt-danbr/raw/refs/heads/main/bracket%202) 
+
+<h1></h1>
+<img src="https://github.com/user-attachments/assets/52c61832-eebf-4005-b20d-4ea63bc5db72" alt="" width="300">
+<br/> another bracket exercise used to practice following a blueprint and practice using the different functions in solidworks
+
+<br/>[CAD file here](https://github.com/Lt-danbr/Lt-danbr/raw/refs/heads/main/bracket%201)

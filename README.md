@@ -15,3 +15,6 @@
 
 <h1></h1>
 <img src="https://github.com/user-attachments/assets/0f2a4d48-a781-4ff3-b81e-4f64197d536e" alt="" width="300">
+
+<br/> This is a muffin pan exercise to demonstrate knowledge of linear pattern tool
+<br/>[CAD file here](https://github.com/Lt-danbr/Lt-danbr/raw/refs/heads/main/muffin%20pan.SLDPRT)
